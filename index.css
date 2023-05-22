@@ -60,3 +60,18 @@ button {
 .button-margin {
     margin-left: 7%;
 }
+
+
+
+
+footer {
+    margin-top: 17%;
+    text-align: center;
+    padding: 3px;
+    background-color: orangered;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
