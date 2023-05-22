@@ -1,0 +1,62 @@
+.movies-start {
+    background-image: url('./images/background_cinema.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.title-movies {
+    color: orangered;
+    margin: 5% 0 5% 40%;
+}
+
+.body-movies {
+    margin-left: 5%;
+}
+
+h3 {
+    color: orangered;
+}
+
+a {
+    text-decoration: none;
+    color: darkorange;
+}
+
+button {
+    border-radius: 25px;
+    background-color: darkorange;
+}
+
+
+
+.title-movie-choose {
+    color: orangered;
+    margin: 5% 0 5% 40%;
+}
+
+
+
+.movies {
+    margin: 0;
+    padding: 0;   
+}
+
+.movie-choosed {
+    color: orangered;
+}
+
+.movies-description {
+    margin: 5% 7% 5% 7%;
+}
+
+#description {
+    color: white;
+}
+
+
+.button-margin {
+    margin-left: 7%;
+}
